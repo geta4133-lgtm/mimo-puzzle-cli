@@ -1,0 +1,18 @@
+# byte-compiled
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# game state
+stats.json
+
+# venv
+venv/
+.venv/
+
+# os
+.DS_Store
