@@ -2,4 +2,10 @@
 
 A 15-puzzle game in the terminal.
 
-WIP - not playable yet.
+```bash
+python3 main.py
+```
+
+w/a/s/d to slide tiles into the empty space, q to quit.
+
+WIP.
