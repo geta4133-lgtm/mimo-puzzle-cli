@@ -1,0 +1,2 @@
+# no external deps needed - everything used is stdlib (random, json, os, sys).
+# this file exists just to make pip and pip-tools happy if someone wants to package later.
