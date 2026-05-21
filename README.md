@@ -6,7 +6,11 @@ I built this while learning Python, mostly because I wanted something to do
 during boring lectures. The goal is to slide the numbered tiles around until
 they're in order from 1 to 15, with the empty space at the bottom right.
 
-## Quick start
+There's also a tiny web version (`index.html`) — same game logic ported to JS
+because a friend wanted to play it on their phone. Try it here:
+**https://geta4133-lgtm.github.io/mimo-puzzle-cli/**
+
+## Quick start (CLI)
 
 ```bash
 git clone https://github.com/geta4133-lgtm/mimo-puzzle-cli.git
@@ -50,6 +54,7 @@ moves: 7   misplaced: 4
 - [x] shuffle (only solvable boards)
 - [x] win detection
 - [x] stats tracking
+- [x] simple web version (no python required)
 - [ ] add 3x3 mode (8-puzzle)
 - [ ] save/load game state
 - [ ] simple solver (A* maybe?)
